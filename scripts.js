@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const username = usernameInput.value;
         const password = passwordInput.value;
 
-        if (username === "sukru_gndz@hotmail.com" && password === "test") {
+        if (username === "ali@xu.com" && password === "123") {
             window.location.href = "dashboard.html"; // Doğru giriş yapıldığında yönlendirilecek sayfa
         } else {
             alert("Hatalı kullanıcı adı veya şifre. Lütfen tekrar deneyin.");
